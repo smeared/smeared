@@ -1,4 +1,4 @@
-<h2 align="center">Threat's Stats</h2>
+<h2 align="center">Zqr's Stats</h2>
 <a href="https://github.com/smeared">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=smeared" alt="Profile Views Count">
