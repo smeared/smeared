@@ -1,4 +1,4 @@
-<h2 align="center">Anti's Stats</h2>
+<h2 align="center">Deathly's Stats</h2>
 <a href="https://github.com/smeared">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=smeared" alt="Profile Views Count">
@@ -10,6 +10,6 @@
 </p>
 
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-5/825573068768411709.png" />
+  <img src="https://discord.c99.nl/widget/theme-3/825573068768411709.png" />
 </p>
 
