@@ -14,6 +14,6 @@ Interests  :  Discord, Tools
 Termninal  :  Hyper
 Languages  :  Python, Go
     Alias  :  kaylo/jay
-  Discord  :  806920051944194079
+  Discord  :  forge#0507 | 806920051944194079
 ```
 
