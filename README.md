@@ -1,15 +1,19 @@
-<h2 align="center">Forge's Stats</h2>
-<a href="https://github.com/smeared">
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=smeared" alt="Profile Views Count">
-  </p>
-</a>
+```bat
+C:\Github\Users\smeared> fetchprofile
+```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=spanked&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
-</p>
+<img align="left" src="https://cdn.discordapp.com/attachments/903088702627119149/905952147676491776/unnamed.png" width="200" /> 
 
-<p align="center">
-  <img src="https://discord.c99.nl/widget/theme-1/806920051944194079.png" />
-</p>
+```csharp
+   smeared@github
+-----------------
+
+     Name  :  Forge
+Interests  :  Discord, Tools
+      WIP  :  Joker, Bleed
+Termninal  :  Hyper
+Languages  :  Python, Go
+    Alias  :  kaylo/jay
+  Discord  :  806920051944194079
+```
 
