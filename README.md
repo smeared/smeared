@@ -10,10 +10,10 @@ C:\Github\Users\smeared> fetchprofile
 
      Name  :  Forge
 Interests  :  Discord, Tools
-      WIP  :  Joker, Bleed
+      WIP  :  Azure, Bleed
 Termninal  :  Hyper
 Languages  :  Python, Go
     Alias  :  kaylo/jay
-  Discord  :  forge#0507 | 806920051944194079
+  Discord  :  forge#1337 | 717206196091617292
 ```
 
