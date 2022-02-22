@@ -9,7 +9,7 @@ C:\Github\Users\smeared> fetchprofile
 -----------------
 
      Name  :  Forge
-Interests  :  Discord, Tools
+Interests  :  Coding, BasketBall
       WIP  :  Remorse
 Termninal  :  Hyper
 Languages  :  Python, Go
