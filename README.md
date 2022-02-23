@@ -11,7 +11,7 @@ C:\Github\Users\smeared> fetchprofile
      Name  :  Forge
 Interests  :  Coding, BasketBall
       WIP  :  Remorse
-Termninal  :  Hyper
+Contact    :  forge@fbi.ac
 Languages  :  Python, Go
     Alias  :  kaylo/jay
   Discord  :  forge#1337 | 717206196091617292
